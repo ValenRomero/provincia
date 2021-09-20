@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+body{
+    color:rgb(252, 252, 252);
+    background-color: black;
+    background-image: url('imagenes/log_misiones.png');
+    background-position: left 1234567899876543210%;
+    /*background-attachment: fixed;*/
+    background-size: cover;
+
+
+}
